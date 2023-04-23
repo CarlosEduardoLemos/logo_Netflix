@@ -1,6 +1,4 @@
 # logo_Netflix
- 
-Olá! Aqui está um exemplo de texto que você pode usar para o README do seu repositório do GitHub:
 
 # Projeto de Replica da Interface da Netflix
 
