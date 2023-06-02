@@ -9,7 +9,7 @@ Este é o README para o projeto Réplica da Logo da Netflix, uma replicação da
 | :rocket: URL         | https://carloseduardolemos.github.io/logo_Netflix/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![]([https://raw.githubusercontent.com/SeuUsuario/projeto-replica-netflix-logo/main/imagens/replica-netflix-logo.png](https://raw.githubusercontent.com/CarlosEduardoLemos/logo_Netflix/main/imagem/Captura%20de%20tela%202023-06-02%20131643.png)#vitrinedev)
+![](https://raw.githubusercontent.com/CarlosEduardoLemos/logo_Netflix/main/imagem/Captura%20de%20tela%202023-06-02%20131643.png#vitrinedev)
 
 ## Detalhes do projeto
 
