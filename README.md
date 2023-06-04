@@ -1,6 +1,6 @@
 # Réplica da Logo da Netflix
 
-Este é o README para o projeto Réplica da Logo da Netflix, uma replicação da famosa logo da Netflix utilizando HTML e CSS.
+O projeto Réplica da Logo da Netflix, é uma replicação da famosa logo da Netflix utilizando HTML e CSS.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
